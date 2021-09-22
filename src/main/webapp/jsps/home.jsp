@@ -4,36 +4,45 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Mylandmark.Tech- Home Page</title>
-<link href="images/LT.JPG" rel="icon">
+<title>Njando Global Technologies - Home Page</title>
+<link href="images/log4.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technology - Leaders in Software Delivery and DevOps Automation</h1>
-<h1 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Saturday Sept 19, 2020 at 8am EST for our new batch. 
-	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Infrastructures. 
-	</h1>
-	<h1 align="center" >JESUS IS LORD of All</h1>
+<h1 align="center">Njando Global Technologies</h1>
+
+<h1 align="center">Bring Inspiration and Innovation to every Engineer in the World Over</h1>
+	
+<h2 align="center"> Welcome to Njando Global Technologies.
+	Special thanks to Prof. Legah of LandMark Technology for his resilient effort in teaching and 
+	leading us throughout this journey. A shout out to Team Dominion and especially the team 
+	leader Dr. (Mola) Forseh. He is a true leader and he believes in "never leave a team member 
+	behind". I want to also recognize Jane, Beatrice and Dasime, its been fun working with you guys.
+	Our prayers remain the same: GET EVERYONE HIRED!!!
+
+    --Vin Lonje-- 
+
+	The shout of the King is in our midst. His name is JESUS Christ.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/logo.png" alt="" width="250">
+		<img src="images/log4.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		Njando Global Technology, 
+		Manila City, Metro Manila, Philippines.
+		+63 966-194-8268,
+		vlonje20@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:vlonje20@gmail.com">Mail to Njando Global Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>Njando Global Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2021 by <a href="http://njandoglobaltech.com/">Njando Global Technologies</a> </small></p>
 
 </body>
 </html>
