@@ -13,15 +13,15 @@
 
 <h2 align="center">Bringing Inspiration and Innovation to every Engineer in the World Over</h2>
 	
-<h4 align="center"> Welcome to Njando Global Technologies.
+<h2 align="justify"> Welcome to Njando Global Technologies.
 	Special thanks to Prof. Legah of LandMark Technology for his resilient effort in teaching and 
 	leading us throughout this journey. A shout out to Team Dominion and especially the team 
 	leader Dr. (Mola) Forseh. He is a true leader and he believes in "never leave a team member 
 	behind". I want to also recognize Jane, Beatrice and Dasime, its been fun working with you guys.
 	Our prayers remain the same: GET EVERYONE HIRED!!
-	The shout of the King is in our midst. His name is JESUS Christ.  HE IS OUR SUCCESS ACCESS KEY</h4>
+	The shout of the King is in our midst. His name is JESUS Christ.  HE IS OUR SUCCESS ACCESS KEY</h2>
 
-<h2 align="left">--Vin Lonje--</h2> 
+<h3 align="left">--Vin Lonje--</h3> 
 	
 <hr>
 <div style="text-align: center;">
