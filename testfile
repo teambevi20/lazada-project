@@ -1,0 +1,11 @@
+1) Git:
+- Git is a Distributed Version Control System (DVCS)
+- With git, it is easier to rollback to a previous release/version 
+- Version Control System is anything that helps to track changes in your codes 
+
+
+Git Workflow:  
+- Create a project directory and cd to it  
+  mkdir projct01 && cd project01 
+- Initialize the project directory   
+  git init

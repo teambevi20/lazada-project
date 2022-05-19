@@ -1,0 +1,4 @@
+Git Commands:
+- git config --list = List users
+- git config --global user.name userName = Add username 
+- git config --global user.email email = Add email

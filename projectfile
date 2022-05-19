@@ -1,0 +1,13 @@
+Tools that do the same thing:
+- Git / SVN (Subversion)
+- GitHub / GitLab / Bitbucket 
+- Apache Maven / Gradle / CMake / Sonatype Nexus / Bazel 
+- Sonarqube /  
+- Nexus / JFrog / Postman / CloudBees  
+- Tomcat / WildFly (JBoss) / nginx / Jetty 
+- Jenkins / Azure Pipeline / CodePipeline 
+- Docker / VirtualBox 
+- Kubernetes / Docker Swarm / Rancher / OpenStack / Nomad 
+- Terraform / CloudBolt / Morpheus 
+- Ansible / Chef / Puppet 
+
