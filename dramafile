@@ -1,0 +1,8 @@
+git log = To see the commit IDs 
+- git reset = To move files from the staging area back to the working area 
+- git show <commit ID> = This displays what took place in the commit, like the version   
+  (use the first 5 characters of the commit ID) 
+- git pull = Pulls changes in the codes from your RemoteRepo to your Working area  
+- git fetch = Pulls changes in the codes from your RemoteRepo to your LocalRepo 
+- git merge = This merges changes on the RemoteRepo with the LocalRepo 
+              This command is usually executed after the <git fetch> command  
